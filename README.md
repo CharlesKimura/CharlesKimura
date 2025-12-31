@@ -21,6 +21,7 @@ Aqui eu organizo meus estudos e projetos, sempre buscando evoluir com prática e
 
 ## 📊 Linguagens mais usadas
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesKimura&layout=compact" />
+<img src="https://SEU-PROJETO.vercel.app/api/top-langs/?username=CharlesKimura&layout=compact" />
 
 ---
 
