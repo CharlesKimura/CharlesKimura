@@ -20,7 +20,7 @@ Aqui eu organizo meus estudos e projetos, sempre buscando evoluir com prática e
 ---
 
 ## 📊 Linguagens mais usadas
-<img src="https://SEU-PROJETO.vercel.app/api/top-langs/?username=CharlesKimura&layout=compact&bg_color=00000000&border_color=00000000&title_color=58a6ff&text_color=c9d1d9" />
+<img src="https://SEU-PROJETO.vercel.app/api/top-langs?username=CharlesKimura&layout=compact" />
 
 ---
 
