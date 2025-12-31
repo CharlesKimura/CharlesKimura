@@ -1,20 +1,27 @@
-## Bem-vindo(a) ao meu perfil 😁
+# 👋 Olá! Eu sou o Charles Kimura
 
-<div>
-  <a href="https://github.com/CharlesKimura">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CharlesKimura&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesKimura&layout=compact&langs_count=6&theme=tokyonight&size_weight=0.5&count_weight=0.5"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
- 
-<br>
- 
-### Pra mais, redes abaixo!
- 
-<div> 
-  <a href= "mailto:charleskimura@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/charles-kimura-5a7bb8311" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+Sou estudante de **Front-end**, atualmente focado em **HTML** e **CSS** e em breve iniciando **JavaScript**.  
+Aqui eu organizo meus estudos e projetos, sempre buscando evoluir com prática e consistência.
+
+---
+
+## 🚀 Tecnologias em estudo
+- ✅ HTML5
+- ✅ CSS3
+- ⏳ JavaScript (em breve)
+
+---
+
+## 📌 O que você vai encontrar aqui
+- Páginas e layouts com HTML/CSS
+- Componentes de interface (cards, botões, modais)
+- Projetos evoluindo para interatividade com JavaScript
+
+---
+
+## 📊 Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesKimura&layout=compact)
+
+---
+
+⭐ Se curtir algum projeto, deixa uma estrela!
